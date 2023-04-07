@@ -4,6 +4,7 @@ import time
 from Sudoku_Solver import board_valid
 from Sudoku_Solver import solve
 
+# Demonstration
 pygame.init()
 
 WIDTH, HEIGHT = 750, 750
